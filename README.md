@@ -1,6 +1,7 @@
 ## Hi, nice to be here 👋
 - 🌱 I’m currently learning python and backend development 
 - 📫 How to reach me: rmartinezp08@gmail.com
+  
 [![roadmap.sh](https://roadmap.sh/card/tall/6678dd27ae5b6c417934248c?variant=dark&roadmaps=backend%2Cgame-developer%2Cfrontend)](https://roadmap.sh)
 <!--
 **Deockz/Deockz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
