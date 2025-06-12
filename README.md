@@ -1,3 +1,5 @@
+<img src="banner.png" alt="">
+
 ## Hi, nice to be here 👋
 - 🌱 I’m currently learning python and backend development 
 - 📫 How to reach me: rmartinezp08@gmail.com
