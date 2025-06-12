@@ -1,4 +1,4 @@
-<img src="https://github.com/Deockz/Deockz/blob/main/Banner.png?raw=true" alt="Banner" width="100%">
+<img src="https://github.com/Deockz/Deockz/blob/main/BannerSmall.png?raw=true" alt="Banner" width="100%">
 
 
 ## Hi, nice to be here 👋
