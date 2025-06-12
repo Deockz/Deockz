@@ -1,4 +1,5 @@
-<img src="banner.png" alt="">
+<img src="https://github.com/Deockz/Deockz/blob/main/banner.png?raw=true" alt="Banner" width="100%">
+
 
 ## Hi, nice to be here 👋
 - 🌱 I’m currently learning python and backend development 
